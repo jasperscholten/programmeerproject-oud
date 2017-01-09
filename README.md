@@ -14,3 +14,8 @@ Uiteindelijk zal de app o.a. bestaan uit:
 * Nieuwsitems plaatsen (met push notificatie)
 * Rooster kunnen inzien
 * Customizable voor iedere onderneming (logo, kleur)
+
+<img src="https://github.com/jasperscholten/programmeerproject/blob/master/doc/beoordeling.png" width="300">
+<img src="https://github.com/jasperscholten/programmeerproject/blob/master/doc/beoordelingen.png" width="300"></br></br>
+<img src="https://github.com/jasperscholten/programmeerproject/blob/master/doc/medewerkers.png" width="300">
+<img src="https://github.com/jasperscholten/programmeerproject/blob/master/doc/rooster.png" width="300"></br></br>
