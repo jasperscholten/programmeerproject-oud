@@ -15,7 +15,7 @@ De app kan uitgebreid worden, door meer onderdelen van de interne communicatie v
 
 Om dit allemaal voor elkaar te kunnen krijgen, is het belangrijk om de database goed te ontwerpen (een API is niet nodig). Hierbij is het belangrijk om te weten wat er allemaal opgeslagen kan worden (datatypes) en wat de rollen van de verschillende gebruikers zijn (een werknemer moet zijn eigen beoordeling niet kunnen aanpassen). Daarnaast is gebruiksvriendelijkheid ook belangrijk: de app moet bij iedere taak snel en eenvoudig te gebruiken zijn (een nieuwbericht moet bijvoorbeeld ook snel opgesteld kunnen worden).
 
-<img src="https://github.com/jasperscholten/programmeerproject/blob/master/doc/beoordeling.png" width="300">
-<img src="https://github.com/jasperscholten/programmeerproject/blob/master/doc/beoordelingen.png" width="300"></br></br>
-<img src="https://github.com/jasperscholten/programmeerproject/blob/master/doc/medewerkers.png" width="300">
-<img src="https://github.com/jasperscholten/programmeerproject/blob/master/doc/rooster.png" width="300"></br></br>
+<img src="https://github.com/jasperscholten/programmeerproject-oud/blob/master/doc/beoordeling.png" width="300">
+<img src="https://github.com/jasperscholten/programmeerproject-oud/blob/master/doc/beoordelingen.png" width="300"></br></br>
+<img src="https://github.com/jasperscholten/programmeerproject-oud/blob/master/doc/medewerkers.png" width="300">
+<img src="https://github.com/jasperscholten/programmeerproject-oud/blob/master/doc/rooster.png" width="300"></br></br>
